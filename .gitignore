@@ -17,6 +17,7 @@
 *secret*.json
 secrets.*
 .streamlit/secrets.toml
+.github/
 
 .docx_work/
 backend/.env

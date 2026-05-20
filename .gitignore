@@ -19,6 +19,9 @@ secrets.*
 .streamlit/secrets.toml
 .github/
 
+# Metals (Scala/Java build tool)
+.metals/
+
 .docx_work/
 backend/.env
 Environment/.env
